@@ -26,7 +26,7 @@ Competir entre dos usuarios de GitHub para ver cual tiene mejor puntaje según e
 * Builds para produccion con npm build
 * Firebase para hostear la app
 
-## Comenzando a instalar el repo
+## Comenzando
 
 A continuación requisitos y como probar el proyecto.
 
@@ -34,7 +34,7 @@ A continuación requisitos y como probar el proyecto.
 
 Tener instalado Node.Js
 
-### Installing
+### Instalación
 
 Como probar el proyecto
 
@@ -47,6 +47,7 @@ npm start
 
 * [React](https://code.facebook.com/projects/176988925806765/react/) - Una librería de javascript para crear interfaces de usuario.
 
-## Authors
+
+## Créditos
 
 ReactFundamentals.com
